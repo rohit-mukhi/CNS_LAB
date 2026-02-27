@@ -1,2 +1,2 @@
-This directory has assets of experiment 2
+This directory has assets of experiment 2\n
 For objective 3 you need to contact someone.
